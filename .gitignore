@@ -1,0 +1,4 @@
+*.bak
+*.ps1xml
+*.publishsettings
+*.json
